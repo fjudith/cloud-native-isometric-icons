@@ -1,4 +1,4 @@
-# Cloud Native Icon set
+# Cloud Native Isometric asset
 
 Talking about Cloud Native concepts can be challenging when the time come to talk to non-technical people.
 We beleive that using isometry helps to handle the various dimensions of distributed systems, espectially those running in Kubernetes.
