@@ -3,6 +3,10 @@
 Talking about Cloud Native concepts can be challenging when the time come to talk to non-technical people.
 We beleive that using isometry helps to handle the various dimensions of distributed systems, espectially those running in Kubernetes.
 
+---
+[continuous delivery](./docs/media/continous_delivery_v2.0.0.png)
+---
+
 ## History & Goals
 
 This project started when we realized how boring it is to represent a fully-featured microservices application like [Spinnaker](https://www.spinnaker.io). Espcially when it comes to display how it looks like when Deployed using the Helm charts.
