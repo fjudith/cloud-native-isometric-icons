@@ -4,7 +4,7 @@ Talking about Cloud Native concepts can be challenging when the time come to tal
 We beleive that using isometry helps to handle the various dimensions of distributed systems, espectially those running in Kubernetes.
 
 ---
-[continuous delivery](./docs/media/continous_delivery_v2.0.0.png)
+![continuous delivery](./docs/media/continuous_delivery_v2.0.0.png)
 ---
 
 ## History & Goals
