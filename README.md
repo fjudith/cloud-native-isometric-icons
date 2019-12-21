@@ -38,3 +38,7 @@ However we wanted also wants to give credits to awsome projects we crossed when 
 ### Special thanks
 
 - [Onepoint](https://groupeonepoint.com)
+
+## License
+
+The Kubernetes Icons Set is licensed under a choice of either Apache-2.0 or CC-BY-4.0 (Creative Commons Attribution 4.0 International). The Kubernetes logo is a registered trademark of The Linux Foundation, and use of it as a trademark is subject to The Linux Foundation's Trademark Usage Guidelines at https://www.linuxfoundation.org/trademark-usage/.
