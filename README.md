@@ -20,7 +20,7 @@ The project started using [Inkscape](https://inkspace.org), but we switched to [
 
 ## Initial contributors
 
-- @fjudith - Architect, SRE, Graphic designer (somehow)
+- @fjudith - IT architect, SRE, Graphic designer (somehow)
 - @mariedao - Graphic designer and Tae kondo master
 
 ## Credits and Inspiration 
