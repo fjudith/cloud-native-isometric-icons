@@ -23,7 +23,7 @@ The project started using [Inkscape](https://inkspace.org), but we switched to [
 - @fjudith - Architect, SRE, Graphic designer (somehow)
 - @mariedao - Graphic designer and Tae kondo master
 
-## Credit and Inspiration 
+## Credits and Inspiration 
 
 Most of the icons are originals and crafted night after night.
 However we wanted also wants to give credits to awsome projects we crossed when we were searching for inspirations.
@@ -31,7 +31,7 @@ However we wanted also wants to give credits to awsome projects we crossed when 
 - [Kubernetes Icons](https://github.com/kubernetes/community/tree/master/icons) from [CNCF](https://cncf.io)
 - [Nvidia Docker](https://devblogs.nvidia.com/gpu-containers-runtime) from [Nvidia](https://nvidia.com)
 - [Prisma](<https://www.prisma.io>)
-- [Portal 2 - Apperture Science commercials](https://www.youtube.com/playlist?list=PL8kpaSMMKX77pkOQzuZfuL3wtX0kvKW3u) from [Valve](https://www.valve.com)
+- [Portal 2 - Apperture Science commercials](https://www.youtube.com/playlist?list=PL8kpaSMMKX77pkOQzuZfuL3wtX0kvKW3u) from [Valve](https://www.valvesoftware.com)
 - [Cloudcraft](https://cloudcraft.com)
 - [Arcentry](https://arcentry.com)
 
