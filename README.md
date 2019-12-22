@@ -28,16 +28,16 @@ The project started using [Inkscape](https://inkspace.org), but we switched to [
 Most of the icons are originals and crafted night after night.
 However we wanted also wants to give credits to awsome projects we crossed when we were searching for inspirations.
 
-- [Kubernetes Icons](https://github.com/kubernetes/community/tree/master/icons) from [CNCF](https://cncf.io)
-- [Nvidia Docker](https://devblogs.nvidia.com/gpu-containers-runtime) from [Nvidia](https://nvidia.com)
-- [Prisma](<https://www.prisma.io>)
-- [Portal 2 - Apperture Science commercials](https://www.youtube.com/playlist?list=PL8kpaSMMKX77pkOQzuZfuL3wtX0kvKW3u) from [Valve](https://www.valvesoftware.com)
-- [Cloudcraft](https://cloudcraft.com)
-- [Arcentry](https://arcentry.com)
+- <img src="https://avatars1.githubusercontent.com/u/13455738?s=200&v=4" alt="prisma" width="20px"/> [Kubernetes Icons](https://github.com/kubernetes/community/tree/master/icons) from [CNCF](https://cncf.io) - [Github](https://github.com/cncf)
+- <img src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4" alt="prisma" width="20px"/> [Nvidia Docker](https://devblogs.nvidia.com/gpu-containers-runtime) from [Nvidia](https://nvidia.com) - [Github](https://github.com/nvidia)
+- <img src="https://avatars0.githubusercontent.com/u/3082775?s=200&v=4" alt="prisma" width="20px"/> [Prisma](<https://www.prisma.io>) - [Github](prisma)
+- <img src="https://avatars1.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" width="20px"/> [Portal 2 - Apperture Science commercials](https://www.youtube.com/playlist?list=PL8kpaSMMKX77pkOQzuZfuL3wtX0kvKW3u) from [Valve](https://www.valvesoftware.com) - [Github](https://github.com/ValveSoftware)
+- <img src="https://pbs.twimg.com/profile_images/717809023823642624/6H0pvx8y_400x400.jpg" alt="prisma" width="20px"/> [Cloudcraft](https://cloudcraft.com)
+- <img src="https://pbs.twimg.com/profile_images/986593959681187840/LG5uMkl8_400x400.jpg" alt="prisma" width="20px"/> [Arcentry](https://arcentry.com)
 
 ### Special thanks
 
-- [Onepoint](https://groupeonepoint.com)
+- <img src="https://pbs.twimg.com/profile_images/1095726076007993344/4M9DRP79.png" alt="prisma" width="20px"/> [Onepoint](https://groupeonepoint.com)
 
 ## License
 
