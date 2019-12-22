@@ -4,7 +4,9 @@ Talking about Cloud Native and Continous delevery concepts can be challenging wh
 We beleive that using isometry helps to handle the various dimensions of distributed systems, espectially those running in Kubernetes.
 
 ---
+
 ![continuous delivery](./docs/media/continuous_delivery_v3.0.0.png)
+
 ---
 
 ## History & Goals
@@ -37,7 +39,7 @@ However we wanted also wants to give credits to awsome projects we crossed when 
 
 ### Special thanks
 
-- <img src="https://pbs.twimg.com/profile_images/1095726076007993344/4M9DRP79.png" alt="prisma" width="20px"/> [Onepoint](https://groupeonepoint.com)
+<img src="https://pbs.twimg.com/profile_images/1095726076007993344/4M9DRP79.png" alt="prisma" width="50px"/> [Onepoint](https://groupeonepoint.com)
 
 ## License
 
