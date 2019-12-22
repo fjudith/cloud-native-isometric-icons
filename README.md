@@ -18,7 +18,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 The project started using [Inkscape](https://inkspace.org), but we switched to [Affinity Designer](https://affinity.serif.com) as we discovered that GPU acceleration was the key to resolve the performance issues we faced when building complex diagrams.
 
-## Initial contributors
+## contributors
 
 - @fjudith - IT architect, SRE, Graphic designer (somehow)
 - @mariedao - Graphic designer and Tae kondo master
