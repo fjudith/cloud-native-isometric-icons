@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="statefulset.svg">
+   sodipodi:docname="cronjob_gray.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -1735,8 +1735,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="88.388135"
-     inkscape:cy="169.83674"
+     inkscape:cx="44.91611"
+     inkscape:cy="-23.353584"
      inkscape:document-units="mm"
      inkscape:current-layer="g51676"
      showgrid="false"
@@ -1765,7 +1765,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(425.82285,165.86996)">
+     transform="translate(414.32088,216.98489)">
     
 
     
@@ -2101,126 +2101,66 @@
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
     <g
-   id="g73715"
-   transform="translate(-1707.3874,-760.61678)">
+   id="g74019"
+   transform="translate(-1577.3154,-1003.8071)">
         <g
-   transform="translate(-1039.23,-1990)"
-   id="Statefuleset">
+   transform="translate(-1125.83,-1940)"
+   id="Cronjob">
             <g
    transform="matrix(0.264583,0,0,0.264583,2597.5,138.845)"
    id="a">
                 <path
-   id="path73683"
-   style="fill:#326ce5;fill-rule:nonzero"
+   id="path74005"
+   style="fill:#363636;fill-rule:nonzero"
    d="m -2943.67,8130.35 c 0,0 -59.68,34.45 -106.96,61.75 -11.7,6.75 -18.9,19.23 -18.9,32.73 0,13.51 7.2,25.99 18.9,32.74 139.31,80.43 493.33,284.82 579.04,334.31 11.69,6.75 26.1,6.75 37.79,0 43.06,-24.86 144.77,-83.58 144.77,-83.58 z"
    inkscape:connector-curvature="0" />
 
             </g>
 
             <g
-   id="g73688"
-   transform="matrix(0.866025,0.5,-0.866025,0.5,3989.56,1659.99)">
+   id="g74010"
+   transform="matrix(0.866025,0.5,-0.866025,0.5,3991.26,1659.25)">
                 <text
-   id="text73686"
+   id="text74008"
    style="font-size:18.47500038px;font-family:ArialMT, Arial, sans-serif;fill:#eeeeee"
    y="1915"
-   x="-565.91101">statefulset</text>
+   x="-554.10199">cronjob</text>
 
             </g>
 
             <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1234">
-                <rect
-   id="rect73690"
-   style="fill:none;stroke:#eeeeee;stroke-width:2px;stroke-dasharray:1.59, 1.59;stroke-dashoffset:3.67000008"
-   height="17.323"
-   width="24.660999"
-   y="23.886999"
-   x="33.34" />
-
-            </g>
-
-            <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1238">
-                <rect
-   id="rect73693"
-   style="fill:#326ce5;stroke:#eeeeee;stroke-width:2px;stroke-dasharray:1.59, 1.59;stroke-dashoffset:3.88000011"
-   height="17.323"
-   width="24.660999"
-   y="29.221001"
-   x="27.524" />
-
-            </g>
-
-            <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1240">
-                <rect
-   id="rect73696"
-   style="fill:#eeeeee"
-   height="17.323"
-   width="24.660999"
-   y="34.555"
-   x="21.709" />
-
-            </g>
-
-            <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1242">
-                <rect
-   id="rect73699"
-   style="fill:none;stroke:#eeeeee;stroke-width:2px;stroke-linecap:butt"
-   height="17.323"
-   width="24.660999"
-   y="34.555"
-   x="21.709" />
-
-            </g>
-
-            <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1244">
+   transform="matrix(0.735892,0.424868,-0.735892,0.424868,1814.86,2284.87)"
+   id="rect9061">
                 <path
-   id="path73702"
-   style="fill:#eeeeee"
-   d="m 23.724,39.371 c 0,1.623 4.618,2.939 10.315,2.939 5.697,0 10.315,-1.316 10.315,-2.939 v 7.95 c 0,1.623 -4.618,2.938 -10.315,2.938 -5.697,0 -10.315,-1.315 -10.315,-2.938 z"
+   id="path74012"
+   style="fill:#eeeeee;fill-rule:nonzero"
+   d="m 42.02,13.264 v 8.097 h 8.326 v -8.097 z m 0,11.656 v 2.065 c 0.978,-0.232 1.991,-0.368 3.037,-0.368 1.878,0 3.665,0.402 5.289,1.114 V 24.92 Z m -23.75,0.125 v 8.098 h 8.326 v -8.098 z m 11.875,0 v 8.098 h 3.508 c 1.172,-1.967 2.833,-3.608 4.818,-4.752 V 25.045 Z M 18.194,36.826 v 8.098 h 8.326 v -8.098 z m 11.912,0 v 8.098 h 2.67 c -0.64,-1.553 -1,-3.249 -1,-5.025 0,-1.059 0.14,-2.084 0.377,-3.073 z"
    inkscape:connector-curvature="0" />
 
             </g>
 
             <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1246">
+   transform="matrix(0.735892,0.424868,-0.735892,0.424868,1814.86,2284.87)"
+   id="path9087">
                 <path
-   id="path73705"
-   style="fill:#f4f4f4"
-   d="m 23.724,39.371 c 0,-1.623 4.618,-2.938 10.315,-2.938 5.697,0 10.315,1.315 10.315,2.938 0,1.623 -4.618,2.939 -10.315,2.939 -5.697,0 -10.315,-1.316 -10.315,-2.939 z"
-   inkscape:connector-curvature="0" />
-
-            </g>
-
-            <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1248">
-                <path
-   id="path73708"
-   style="fill-opacity:0"
-   d="m 44.354,39.371 c 0,1.623 -4.618,2.939 -10.315,2.939 -5.697,0 -10.315,-1.316 -10.315,-2.939 0,-1.623 4.618,-2.938 10.315,-2.938 5.697,0 10.315,1.315 10.315,2.938 v 7.95 c 0,1.623 -4.618,2.938 -10.315,2.938 -5.697,0 -10.315,-1.315 -10.315,-2.938 v -7.95"
-   inkscape:connector-curvature="0" />
-
-            </g>
-
-            <g
-   transform="matrix(0.994254,0.574035,-0.994254,0.574035,1820.82,2272.16)"
-   id="path1250">
-                <path
-   id="path73711"
-   style="fill:none;stroke:#326ce5;stroke-width:2px;stroke-linecap:butt"
-   d="m 44.354,39.371 c 0,1.623 -4.618,2.939 -10.315,2.939 -5.697,0 -10.315,-1.316 -10.315,-2.939 0,-1.623 4.618,-2.938 10.315,-2.938 5.697,0 10.315,1.315 10.315,2.938 v 7.95 c 0,1.623 -4.618,2.938 -10.315,2.938 -5.697,0 -10.315,-1.315 -10.315,-2.938 v -7.95"
+   id="path74015"
+   style="fill:#eeeeee;fill-rule:nonzero"
+   d="m 45.556,28.304 c -6.652,0 -12.094,5.442 -12.094,12.094 0,6.652 5.442,12.094 12.094,12.094 6.651,0 12.094,-5.442 12.094,-12.094 0,-6.652 -5.443,-12.094 -12.094,-12.094 z m 5.079,17.173 -6.289,-3.87 v -7.256 h 1.815 v 6.289 l 5.442,3.265 z"
    inkscape:connector-curvature="0" />
 
             </g>
