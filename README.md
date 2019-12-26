@@ -22,8 +22,8 @@ The project started using [Inkscape](https://inkspace.org), but we switched to [
 
 ## contributors
 
-- @fjudith - IT architect, SRE, Graphic designer (somehow)
-- @mariedao - Graphic designer and Tae kondo master
+- [@fjudith](https://github.com/fjudith) - IT architect, SRE, Graphic designer (somehow)
+- [@mariedao](https://github.com/mariedao) - Graphic designer and Tae kondo master
 
 ## Credits and Inspiration 
 
