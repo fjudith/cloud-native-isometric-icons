@@ -1,4 +1,4 @@
-# Cloud Native isometric asset
+# Cloud Native isometric icons
 
 Talking about Cloud Native and Continous delevery concepts can be challenging when the time come to talk to non-technical people.
 We beleive that using isometry helps to handle the various dimensions of distributed systems, espectially those running in Kubernetes.
