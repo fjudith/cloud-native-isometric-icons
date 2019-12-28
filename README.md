@@ -16,6 +16,164 @@ The number of objects and customisation is so high that diagrams was looking lik
 
 Isometry offers this opportunity to represent the various objects in volumes and gain a better understanting impact when promotting [Cloud Native](https://cncf.io) projects and the assiociated Devops spirit.
 
+## Assets
+
+### Application Package
+
+<img src="./svg/application-package/librairies.svg" width="50px"/>
+<img src="./svg/application-package/single_process.svg" width="50px"/>
+<img src="./svg/application-package/software_package_black.svg" width="50px"/>
+<img src="./svg/application-package/software_package_cyan.svg" width="50px"/>
+<img src="./svg/application-package/software_package_magenta.svg" width="50px"/>
+<img src="./svg/application-package/software_package_metal.svg" width="50px"/>
+<img src="./svg/application-package/software_package_yellow.svg" width="50px"/>
+
+### Cloud
+
+<img src="./svg/cloud/alibaba_front.svg" alt="alibaba_front" width="50px"/>
+<img src="./svg/cloud/aws_front.svg" alt="aws_front" width="50px"/>
+<img src="./svg/cloud/azure_front.svg" alt="azure_front" width="50px"/>
+<img src="./svg/cloud/cloud_black_front.svg" alt="cloud_black_front" width="50px"/>
+<img src="./svg/cloud/cloud_cyan_front.svg" alt="cloud_cyan_front" width="50px"/>
+<img src="./svg/cloud/cloud_magenta_front.svg" alt="cloud_magenta_front" width="50px"/>
+<img src="./svg/cloud/cloud_white_front.svg" alt="cloud_white_front" width="50px"/>
+<img src="./svg/cloud/cloud_yellow_front.svg" alt="cloud_yellow_front" width="50px"/>
+<img src="./svg/cloud/digitalocean_front.svg" alt="digitalocean_front" width="50px"/>
+<img src="./svg/cloud/gcp_front.svg" alt="gcp_front" width="50px"/>
+<img src="./svg/cloud/hetzner_front.svg" alt="hetzner_front" width="50px"/>
+<img src="./svg/cloud/kubernetes_front.svg" alt="kubernetes_front" width="50px"/>
+<img src="./svg/cloud/oracle_front.svg" alt="oracle_front" width="50px"/>
+<img src="./svg/cloud/scaleway_front.svg" alt="scaleway_front" width="50px"/>
+
+### Container
+
+###### Basic
+
+<img src="./svg/container/container_tone_metal.svg" height="60px"/>
+<img src="./svg/container/container_logging.svg" height="60px"/>
+<img src="./svg/container/container_monitoring.svg" height="60px"/>
+<img src="./svg/container/container_tone_metal_open.svg" height="60px"/>
+<img src="./svg/container/container_tone_metal_open_insert.svg" height="60px"/>
+<img src="./svg/container/container-deconstructed.svg" height="60px"/>
+
+###### Colored
+
+<img src="./svg/container/container_black.svg" height="60px"/>
+<img src="./svg/container/container_blue.svg" height="60px"/>
+<img src="./svg/container/container_cyan.svg" height="60px"/>
+<img src="./svg/container/container_magenta.svg" height="60px"/>
+<img src="./svg/container/container_orange.svg" height="60px"/>
+<img src="./svg/container/container_purple.svg" height="60px"/>
+<img src="./svg/container/container_red.svg" height="60px"/>
+<img src="./svg/container/container_white.svg" height="60px"/>
+<img src="./svg/container/container_yellow.svg" height="60px"/>
+
+###### Tone
+
+<img src="./svg/container/container_tone_azure.svg" height="60px"/>
+<img src="./svg/container/container_tone_banana.svg" height="60px"/>
+<img src="./svg/container/container_tone_carrot.svg" height="60px"/>
+<img src="./svg/container/container_tone_emeraude.svg" height="60px"/>
+<img src="./svg/container/container_tone_grape.svg" height="60px"/>
+<img src="./svg/container/container_tone_lagoon.svg" height="60px"/>
+<img src="./svg/container/container_tone_petrol.svg" height="60px"/>
+<img src="./svg/container/container_tone_poussin.svg" height="60px"/>
+<img src="./svg/container/container_tone_raspberry.svg" height="60px"/>
+<img src="./svg/container/container_tone_sapphire.svg" height="60px"/>
+
+### Filesystem
+
+<img src="./svg/filesystem/code.svg" height="60px"/>
+<img src="./svg/filesystem/documents.svg" height="60px"/>
+<img src="./svg/filesystem/folder.svg" height="60px"/>
+<img src="./svg/filesystem/index.svg" height="60px"/>
+<img src="./svg/filesystem/intelligence.svg" height="60px"/>
+
+### Kubernetes
+
+#### Control plane
+
+<img src="./svg/kubernetes/control-plane/apiserver.svg" height="60px"/>
+<img src="./svg/kubernetes/control-plane/cloud-controller-manager.svg" height="60px"/>
+<img src="./svg/kubernetes/control-plane/controller-manager.svg" height="60px"/>
+<img src="./svg/kubernetes/control-plane/kube-proxy.svg" height="60px"/>
+<img src="./svg/kubernetes/control-plane/kubelet.svg" height="60px"/>
+<img src="./svg/kubernetes/control-plane/scheduler.svg" height="60px"/>
+
+#### Infrastructure
+
+<img src="./svg/kubernetes/infrastructure/etcd.svg" height="60px"/>
+<img src="./svg/kubernetes/infrastructure/master.svg" height="60px"/>
+<img src="./svg/kubernetes/infrastructure/node.svg" height="60px"/>
+
+#### Resources
+
+##### Pod
+
+<img src="./svg/kubernetes/resources/pod.svg" height="80"/>
+<img src="./svg/kubernetes/resources/pod_sidecar-1.svg" height="107"/>
+<img src="./svg/kubernetes/resources/pod_sidecar-2.svg" height="135px"/>
+<img src="./svg/kubernetes/resources/pod_sidecar-3.svg" height="135px"/>
+
+##### Config and Storage
+
+<img src="./svg/kubernetes/resources/configmap.svg" width="70px"/>
+<img src="./svg/kubernetes/resources/pv.svg" width="70x"/>
+<img src="./svg/kubernetes/resources/pvc.svg" width="70x"/>
+<img src="./svg/kubernetes/resources/secret.svg" width="70px"/>
+<img src="./svg/kubernetes/resources/vol-mount_front.svg" width="70px"/>
+<img src="./svg/kubernetes/resources/vol-mount_side.svg" width="70px"/>
+
+##### Workloads (blue)
+
+<img src="./svg/kubernetes/resources/cronjob.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/daemonset.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/deployment.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/job.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/statefulset.svg" height="60px"/>
+
+##### Workloads (gray)
+
+<img src="./svg/kubernetes/resources/cronjob_gray.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/daemonset_gray.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/deployment_gray.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/job_gray.svg" height="60px"/>
+<img src="./svg/kubernetes/resources/statefulset_gray.svg" height="60px"/>
+
+##### Discovery and Load Balancing
+
+<img src="./svg/kubernetes/resources/svc.svg" width="70px"/>
+<img src="./svg/kubernetes/resources/ingress.svg" width="70px"/>
+
+### Networking
+
+<img src="./svg/networking/dns.svg" width="70px"/>
+<img src="./svg/networking/internet.svg" width="70px"/>
+<img src="./svg/networking/load-balancer.svg" width="70px"/>
+
+### Repository
+
+<img src="./svg/repository/code-repository.svg" width="150px"/>
+<img src="./svg/repository/container-registry.svg" width="150px"/>
+<img src="./svg/repository/mixed-repository.svg" width="150px"/>
+
+### Server
+
+<img src="./svg/server/micro-virtual-machine.svg" width="70px"/>
+<img src="./svg/server/server_partitionned.svg" width="70px"/>
+<img src="./svg/server/server_single_partition.svg" width="70px"/>
+<img src="./svg/server/server_slim.svg" width="70px"/>
+<img src="./svg/server/server-cube.svg" width="70px"/>
+<img src="./svg/server/server.svg" width="70px"/>
+<img src="./svg/server/storage-server-hdd.svg" width="70px"/>
+<img src="./svg/server/storage-server-ssd.svg" width="70px"/>
+<img src="./svg/server/virtual-machine.svg" width="70px"/>
+
+#### Rack
+
+<img src="./svg/server/server-rack-hdd.svg" width="70px"/>
+<img src="./svg/server/server-rack-ssd.svg" width="70px"/>
+
 ## Tools we used
 
 The project started using [Inkscape](https://inkspace.org), but we switched to [Affinity Designer](https://affinity.serif.com) as we discovered that GPU acceleration was the key to resolve the performance issues we faced when building complex diagrams.
