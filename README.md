@@ -30,6 +30,8 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 ### Cloud
 
+#### Front
+
 ![](./png/cloud/alibaba_front-128.png)
 ![](./png/cloud/aws_front-128.png)
 ![](./png/cloud/azure_front-128.png)
@@ -45,9 +47,27 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ![](./png/cloud/oracle_front-128.png)
 ![](./png/cloud/scaleway_front-128.png)
 
+#### Side
+
+![](./png/cloud/alibaba_side-128.png)
+![](./png/cloud/aws_side-128.png)
+![](./png/cloud/azure_side-128.png)
+![](./png/cloud/cloud_black_side-128.png)
+![](./png/cloud/cloud_cyan_side-128.png)
+![](./png/cloud/cloud_magenta_side-128.png)
+![](./png/cloud/cloud_white_side-128.png)
+![](./png/cloud/cloud_yellow_side-128.png)
+![](./png/cloud/digitalocean_side-128.png)
+![](./png/cloud/gcp_side-128.png)
+![](./png/cloud/hetzner_side-128.png)
+![](./png/cloud/kubernetes_side-128.png)
+![](./png/cloud/oracle_side-128.png)
+![](./png/cloud/scaleway_side-128.png)
+
+
 ### Container
 
-###### Basic
+#### Basic
 
 ![](./png/container/container_tone_metal-128.png)
 ![](./png/container/container_logging-128.png)
@@ -56,7 +76,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ![](./png/container/container_tone_metal_open_insert-128.png)
 ![](./png/container/container-deconstructed-128.png)
 
-###### Colored
+#### Colored
 
 ![](./png/container/container_black-128.png)
 ![](./png/container/container_blue-128.png)
@@ -68,7 +88,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ![](./png/container/container_white-128.png)
 ![](./png/container/container_yellow-128.png)
 
-###### Tone
+#### Tone
 
 ![](./png/container/container_tone_azure-128.png)
 ![](./png/container/container_tone_banana-128.png)
