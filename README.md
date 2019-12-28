@@ -197,8 +197,9 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ### Vulnerability scanner
 
 ![](./png/vulnerability-scanner/sniffer-dog_front-128.png)
-![](./png/vulnerability-scanner/sniffer-dog_rear_right-128.png)
 ![](./png/vulnerability-scanner/sniffer-dog_side-128.png)
+![](./png/vulnerability-scanner/sniffer-dog_rear_front-128.png)
+![](./png/vulnerability-scanner/sniffer-dog_rear_side-128.png)
 
 ## Tools we used
 
