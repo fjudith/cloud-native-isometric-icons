@@ -20,159 +20,159 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 ### Application Package
 
-<img src="./svg/application-package/librairies.svg" width="50px"/>
-<img src="./svg/application-package/single_process.svg" width="50px"/>
-<img src="./svg/application-package/software_package_black.svg" width="50px"/>
-<img src="./svg/application-package/software_package_cyan.svg" width="50px"/>
-<img src="./svg/application-package/software_package_magenta.svg" width="50px"/>
-<img src="./svg/application-package/software_package_metal.svg" width="50px"/>
-<img src="./svg/application-package/software_package_yellow.svg" width="50px"/>
+![](./png/application-package/librairies-128.png)
+![](./png/application-package/single_process-128.png)
+![](./png/application-package/software_package_black-128.png)
+![](./png/application-package/software_package_cyan-128.png)
+![](./png/application-package/software_package_magenta-128.png)
+![](./png/application-package/software_package_metal-128.png)
+![](./png/application-package/software_package_yellow-128.png)
 
 ### Cloud
 
-<img src="./svg/cloud/alibaba_front.svg" alt="alibaba_front" width="50px"/>
-<img src="./svg/cloud/aws_front.svg" alt="aws_front" width="50px"/>
-<img src="./svg/cloud/azure_front.svg" alt="azure_front" width="50px"/>
-<img src="./svg/cloud/cloud_black_front.svg" alt="cloud_black_front" width="50px"/>
-<img src="./svg/cloud/cloud_cyan_front.svg" alt="cloud_cyan_front" width="50px"/>
-<img src="./svg/cloud/cloud_magenta_front.svg" alt="cloud_magenta_front" width="50px"/>
-<img src="./svg/cloud/cloud_white_front.svg" alt="cloud_white_front" width="50px"/>
-<img src="./svg/cloud/cloud_yellow_front.svg" alt="cloud_yellow_front" width="50px"/>
-<img src="./svg/cloud/digitalocean_front.svg" alt="digitalocean_front" width="50px"/>
-<img src="./svg/cloud/gcp_front.svg" alt="gcp_front" width="50px"/>
-<img src="./svg/cloud/hetzner_front.svg" alt="hetzner_front" width="50px"/>
-<img src="./svg/cloud/kubernetes_front.svg" alt="kubernetes_front" width="50px"/>
-<img src="./svg/cloud/oracle_front.svg" alt="oracle_front" width="50px"/>
-<img src="./svg/cloud/scaleway_front.svg" alt="scaleway_front" width="50px"/>
+![](./png/cloud/alibaba_front-128.png)
+![](./png/cloud/aws_front-128.png)
+![](./png/cloud/azure_front-128.png)
+![](./png/cloud/cloud_black_front-128.png)
+![](./png/cloud/cloud_cyan_front-128.png)
+![](./png/cloud/cloud_magenta_front-128.png)
+![](./png/cloud/cloud_white_front-128.png)
+![](./png/cloud/cloud_yellow_front-128.png)
+![](./png/cloud/digitalocean_front-128.png)
+![](./png/cloud/gcp_front-128.png)
+![](./png/cloud/hetzner_front-128.png)
+![](./png/cloud/kubernetes_front-128.png)
+![](./png/cloud/oracle_front-128.png)
+![](./png/cloud/scaleway_front-128.png)
 
 ### Container
 
 ###### Basic
 
-<img src="./svg/container/container_tone_metal.svg" height="60px"/>
-<img src="./svg/container/container_logging.svg" height="60px"/>
-<img src="./svg/container/container_monitoring.svg" height="60px"/>
-<img src="./svg/container/container_tone_metal_open.svg" height="60px"/>
-<img src="./svg/container/container_tone_metal_open_insert.svg" height="60px"/>
-<img src="./svg/container/container-deconstructed.svg" height="60px"/>
+![](./png/container/container_tone_metal-128.png)
+![](./png/container/container_logging-128.png)
+![](./png/container/container_monitoring-128.png)
+![](./png/container/container_tone_metal_open-128.png)
+![](./png/container/container_tone_metal_open_insert-128.png)
+![](./png/container/container-deconstructed-128.png)
 
 ###### Colored
 
-<img src="./svg/container/container_black.svg" height="60px"/>
-<img src="./svg/container/container_blue.svg" height="60px"/>
-<img src="./svg/container/container_cyan.svg" height="60px"/>
-<img src="./svg/container/container_magenta.svg" height="60px"/>
-<img src="./svg/container/container_orange.svg" height="60px"/>
-<img src="./svg/container/container_purple.svg" height="60px"/>
-<img src="./svg/container/container_red.svg" height="60px"/>
-<img src="./svg/container/container_white.svg" height="60px"/>
-<img src="./svg/container/container_yellow.svg" height="60px"/>
+![](./png/container/container_black-128.png)
+![](./png/container/container_blue-128.png)
+![](./png/container/container_cyan-128.png)
+![](./png/container/container_magenta-128.png)
+![](./png/container/container_orange-128.png)
+![](./png/container/container_purple-128.png)
+![](./png/container/container_red-128.png)
+![](./png/container/container_white-128.png)
+![](./png/container/container_yellow-128.png)
 
 ###### Tone
 
-<img src="./svg/container/container_tone_azure.svg" height="60px"/>
-<img src="./svg/container/container_tone_banana.svg" height="60px"/>
-<img src="./svg/container/container_tone_carrot.svg" height="60px"/>
-<img src="./svg/container/container_tone_emeraude.svg" height="60px"/>
-<img src="./svg/container/container_tone_grape.svg" height="60px"/>
-<img src="./svg/container/container_tone_lagoon.svg" height="60px"/>
-<img src="./svg/container/container_tone_petrol.svg" height="60px"/>
-<img src="./svg/container/container_tone_poussin.svg" height="60px"/>
-<img src="./svg/container/container_tone_raspberry.svg" height="60px"/>
-<img src="./svg/container/container_tone_sapphire.svg" height="60px"/>
+![](./png/container/container_tone_azure-128.png)
+![](./png/container/container_tone_banana-128.png)
+![](./png/container/container_tone_carrot-128.png)
+![](./png/container/container_tone_emeraude-128.png)
+![](./png/container/container_tone_grape-128.png)
+![](./png/container/container_tone_lagoon-128.png)
+![](./png/container/container_tone_petrol-128.png)
+![](./png/container/container_tone_poussin-128.png)
+![](./png/container/container_tone_raspberry-128.png)
+![](./png/container/container_tone_sapphire-128.png)
 
 ### Filesystem
 
-<img src="./svg/filesystem/code.svg" height="60px"/>
-<img src="./svg/filesystem/documents.svg" height="60px"/>
-<img src="./svg/filesystem/folder.svg" height="60px"/>
-<img src="./svg/filesystem/index.svg" height="60px"/>
-<img src="./svg/filesystem/intelligence.svg" height="60px"/>
+![](./png/filesystem/code-128.png)
+![](./png/filesystem/documents-128.png)
+![](./png/filesystem/folder-128.png)
+![](./png/filesystem/index-128.png)
+![](./png/filesystem/intelligence-128.png)
 
 ### Kubernetes
 
 #### Control plane
 
-<img src="./svg/kubernetes/control-plane/apiserver.svg" height="60px"/>
-<img src="./svg/kubernetes/control-plane/cloud-controller-manager.svg" height="60px"/>
-<img src="./svg/kubernetes/control-plane/controller-manager.svg" height="60px"/>
-<img src="./svg/kubernetes/control-plane/kube-proxy.svg" height="60px"/>
-<img src="./svg/kubernetes/control-plane/kubelet.svg" height="60px"/>
-<img src="./svg/kubernetes/control-plane/scheduler.svg" height="60px"/>
+![](./png/kubernetes/control-plane/apiserver-128.png)
+![](./png/kubernetes/control-plane/cloud-controller-manager-128.png)
+![](./png/kubernetes/control-plane/controller-manager-128.png)
+![](./png/kubernetes/control-plane/kube-proxy-128.png)
+![](./png/kubernetes/control-plane/kubelet-128.png)
+![](./png/kubernetes/control-plane/scheduler-128.png)
 
 #### Infrastructure
 
-<img src="./svg/kubernetes/infrastructure/etcd.svg" height="60px"/>
-<img src="./svg/kubernetes/infrastructure/master.svg" height="60px"/>
-<img src="./svg/kubernetes/infrastructure/node.svg" height="60px"/>
+![](./png/kubernetes/infrastructure/etcd-128.png)
+![](./png/kubernetes/infrastructure/master-128.png)
+![](./png/kubernetes/infrastructure/node-128.png)
 
 #### Resources
 
 ##### Pod
 
-<img src="./svg/kubernetes/resources/pod.svg" height="80"/>
-<img src="./svg/kubernetes/resources/pod_sidecar-1.svg" height="107"/>
-<img src="./svg/kubernetes/resources/pod_sidecar-2.svg" height="135px"/>
-<img src="./svg/kubernetes/resources/pod_sidecar-3.svg" height="135px"/>
+![](./png/kubernetes/resources/pod-128.png)
+![](./png/kubernetes/resources/pod_sidecar-1-128.png)
+![](./png/kubernetes/resources/pod_sidecar-2-128.png)
+![](./png/kubernetes/resources/pod_sidecar-3-128.png)
 
 ##### Config and Storage
 
-<img src="./svg/kubernetes/resources/configmap.svg" width="70px"/>
-<img src="./svg/kubernetes/resources/pv.svg" width="70x"/>
-<img src="./svg/kubernetes/resources/pvc.svg" width="70x"/>
-<img src="./svg/kubernetes/resources/secret.svg" width="70px"/>
-<img src="./svg/kubernetes/resources/vol-mount_front.svg" width="70px"/>
-<img src="./svg/kubernetes/resources/vol-mount_side.svg" width="70px"/>
+![](./png/kubernetes/resources/configmap-128.png)
+![](./png/kubernetes/resources/pv-128.png)
+![](./png/kubernetes/resources/pvc-128.png)
+![](./png/kubernetes/resources/secret-128.png)
+![](./png/kubernetes/resources/vol-mount_front-128.png)
+![](./png/kubernetes/resources/vol-mount_side-128.png)
 
 ##### Workloads (blue)
 
-<img src="./svg/kubernetes/resources/cronjob.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/daemonset.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/deployment.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/job.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/statefulset.svg" height="60px"/>
+![](./png/kubernetes/resources/cronjob-128.png)
+![](./png/kubernetes/resources/daemonset-128.png)
+![](./png/kubernetes/resources/deployment-128.png)
+![](./png/kubernetes/resources/job-128.png)
+![](./png/kubernetes/resources/statefulset-128.png)
 
 ##### Workloads (gray)
 
-<img src="./svg/kubernetes/resources/cronjob_gray.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/daemonset_gray.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/deployment_gray.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/job_gray.svg" height="60px"/>
-<img src="./svg/kubernetes/resources/statefulset_gray.svg" height="60px"/>
+![](./png/kubernetes/resources/cronjob_gray-128.png)
+![](./png/kubernetes/resources/daemonset_gray-128.png)
+![](./png/kubernetes/resources/deployment_gray-128.png)
+![](./png/kubernetes/resources/job_gray-128.png)
+![](./png/kubernetes/resources/statefulset_gray-128.png)
 
 ##### Discovery and Load Balancing
 
-<img src="./svg/kubernetes/resources/svc.svg" width="70px"/>
-<img src="./svg/kubernetes/resources/ingress.svg" width="70px"/>
+![](./png/kubernetes/resources/svc-128.png)
+![](./png/kubernetes/resources/ingress-128.png)
 
 ### Networking
 
-<img src="./svg/networking/dns.svg" width="70px"/>
-<img src="./svg/networking/internet.svg" width="70px"/>
-<img src="./svg/networking/load-balancer.svg" width="70px"/>
+![](./png/networking/dns-128.png)
+![](./png/networking/internet-128.png)
+![](./png/networking/load-balancer-128.png)
 
 ### Repository
 
-<img src="./svg/repository/code-repository.svg" width="150px"/>
-<img src="./svg/repository/container-registry.svg" width="150px"/>
-<img src="./svg/repository/mixed-repository.svg" width="150px"/>
+![](./png/repository/code-repository-128.png)
+![](./png/repository/container-registry-128.png)
+![](./png/repository/mixed-repository-128.png)
 
 ### Server
 
-<img src="./svg/server/micro-virtual-machine.svg" width="70px"/>
-<img src="./svg/server/server_partitionned.svg" width="70px"/>
-<img src="./svg/server/server_single_partition.svg" width="70px"/>
-<img src="./svg/server/server_slim.svg" width="70px"/>
-<img src="./svg/server/server-cube.svg" width="70px"/>
-<img src="./svg/server/server.svg" width="70px"/>
-<img src="./svg/server/storage-server-hdd.svg" width="70px"/>
-<img src="./svg/server/storage-server-ssd.svg" width="70px"/>
-<img src="./svg/server/virtual-machine.svg" width="70px"/>
+![](./png/server/micro-virtual-machine-128.png)
+![](./png/server/server_partitionned-128.png)
+![](./png/server/server_single_partition-128.png)
+![](./png/server/server_slim-128.png)
+![](./png/server/server-cube-128.png)
+![](./png/server/server-128.png)
+![](./png/server/storage-server-hdd-128.png)
+![](./png/server/storage-server-ssd-128.png)
+![](./png/server/virtual-machine-128.png)
 
 #### Rack
 
-<img src="./svg/server/server-rack-hdd.svg" width="70px"/>
-<img src="./svg/server/server-rack-ssd.svg" width="70px"/>
+![](./png/server/server-rack-hdd-128.png)
+![](./png/server/server-rack-ssd-128.png)
 
 ## Tools we used
 
