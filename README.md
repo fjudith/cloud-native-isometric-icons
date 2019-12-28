@@ -30,7 +30,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 ### Cloud
 
-#### Front
+#### Front view
 
 ![](./png/cloud/alibaba_front-128.png)
 ![](./png/cloud/aws_front-128.png)
@@ -47,7 +47,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ![](./png/cloud/oracle_front-128.png)
 ![](./png/cloud/scaleway_front-128.png)
 
-#### Side
+#### Side view
 
 ![](./png/cloud/alibaba_side-128.png)
 ![](./png/cloud/aws_side-128.png)
