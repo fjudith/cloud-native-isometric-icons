@@ -194,6 +194,12 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ![](./png/server/server-rack-hdd-128.png)
 ![](./png/server/server-rack-ssd-128.png)
 
+### Vulnerability scanner
+
+![](./png/vulnerability-scanner/sniffer-dog_front-128.png)
+![](./png/vulnerability-scanner/sniffer-dog_rear_right-128.png)
+![](./png/vulnerability-scanner/sniffer-dog_side-128.png)
+
 ## Tools we used
 
 The project started using [Inkscape](https://inkspace.org), but we switched to [Affinity Designer](https://affinity.serif.com) as we discovered that GPU acceleration was the key to resolve the performance issues we faced when building complex diagrams.
