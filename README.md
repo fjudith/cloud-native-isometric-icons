@@ -192,6 +192,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ![](./png/server/server_slim-128.png)
 ![](./png/server/server-cube-128.png)
 ![](./png/server/server-128.png)
+![](./png/server/storage-extender-128.png)
 ![](./png/server/storage-server-hdd-128.png)
 ![](./png/server/storage-server-ssd-128.png)
 ![](./png/server/virtual-machine-128.png)
