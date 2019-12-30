@@ -10,7 +10,7 @@ counter=1
 for size in "${SIZES[@]}"; do 
     for svg in $(find svg/ -name *.svg | cut -b 5-); do
         dir=$(dirname -- ${svg})
-        echo "Create directory \"png/${dir}\""
+        # echo "Create directory \"png/${dir}\""
         mkdir -p png/${dir}
         output=png/${svg%%.*}-${size}.png
         echo "[$counter/$total] Generating $output"

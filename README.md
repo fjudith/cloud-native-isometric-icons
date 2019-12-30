@@ -101,13 +101,20 @@ Isometry offers this opportunity to represent the various objects in volumes and
 ![](./png/container/container_tone_raspberry-128.png)
 ![](./png/container/container_tone_sapphire-128.png)
 
-### Filesystem
+### Storage
 
-![](./png/filesystem/code-128.png)
-![](./png/filesystem/documents-128.png)
-![](./png/filesystem/folder-128.png)
-![](./png/filesystem/index-128.png)
-![](./png/filesystem/intelligence-128.png)
+#### Filesystem
+
+![](./png/storage/filesystem/code-128.png)
+![](./png/storage/filesystem/documents-128.png)
+![](./png/storage/filesystem/folder-128.png)
+![](./png/storage/filesystem/index-128.png)
+![](./png/storage/filesystem/intelligence-128.png)
+
+#### Object
+
+![](./png/storage/object/object-store-128.png)
+
 
 ### Kubernetes
 
