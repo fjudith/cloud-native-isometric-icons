@@ -1,0 +1,16 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Convert SVG to PNG
+      run: echo Converting SVG files to PNG.
+    - name: Run a multi-line script
+      run: |
+        tools/rasterize.sh
