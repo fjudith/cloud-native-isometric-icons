@@ -20,49 +20,119 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 ### Application Package
 
-![](./png/application-package/librairies-128.png)
-![](./png/application-package/single_process-128.png)
-![](./png/application-package/software_package_black-128.png)
-![](./png/application-package/software_package_cyan-128.png)
-![](./png/application-package/software_package_magenta-128.png)
-![](./png/application-package/software_package_metal-128.png)
-![](./png/application-package/software_package_yellow-128.png)
+<table>
+<tr align='center'>
+    <th align='center'>Librairies</th>
+    <th align='center'>Process</th>
+    <th align='center'>Software package (black)</th>
+    <th align='center'>Software package (cyan)</th>
+    <th align='center'>Software package (magenta)</th>
+    <th align='center'>Software package (metal)</th>
+    <th align='center'>Software package (yellow)</th>
+    <th align='center'>Software package (white)</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/application-package/librairies-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/single_process-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/software_package_black-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/software_package_cyan-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/software_package_magenta-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/software_package_metal-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/software_package_yellow-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/software_package_white-128.png' width="50px"></td>
+</tr>
+</table>
+
 
 ### Cloud
 
 #### Front view
 
-![](./png/cloud/alibaba_front-128.png)
-![](./png/cloud/aws_front-128.png)
-![](./png/cloud/azure_front-128.png)
-![](./png/cloud/cloud_black_front-128.png)
-![](./png/cloud/cloud_cyan_front-128.png)
-![](./png/cloud/cloud_magenta_front-128.png)
-![](./png/cloud/cloud_white_front-128.png)
-![](./png/cloud/cloud_yellow_front-128.png)
-![](./png/cloud/digitalocean_front-128.png)
-![](./png/cloud/gcp_front-128.png)
-![](./png/cloud/hetzner_front-128.png)
-![](./png/cloud/kubernetes_front-128.png)
-![](./png/cloud/oracle_front-128.png)
-![](./png/cloud/scaleway_front-128.png)
+<table>
+<tr align='center'>
+    <th align='center'>Cloud (black)</th>
+    <th align='center'>Cloud (cyan)</th>
+    <th align='center'>Cloud (magenta)</th>
+    <th align='center'>Cloud (white)</th>
+    <th align='center'>Cloud (yellow)</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/cloud/cloud_black_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_cyan_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_magenta_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_white_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_yellow_front-128.png' width="50px"></td>
+</tr>
+</table>
+
+<table>
+<tr align='center'>
+    <th align='center'>Alibaba cloud</th>
+    <th align='center'>Amazon Web Services</th>
+    <th align='center'>Azure</th>
+    <th align='center'>Digital Ocean</th>
+    <th align='center'>Google Cloud Platform</th>
+    <th align='center'>Hetzner</th>
+    <th align='center'>Kubernetes</th>
+    <th align='center'>Oracle Cloud</th>
+    <th align='center'>Scaleway</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/cloud/alibaba_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/aws_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/azure_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/digitalocean_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/gcp_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/hetzner_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/kubernetes_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/oracle_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/scaleway_front-128.png' width="50px"></td>
+</tr>
+</table>
 
 #### Side view
 
-![](./png/cloud/alibaba_side-128.png)
-![](./png/cloud/aws_side-128.png)
-![](./png/cloud/azure_side-128.png)
-![](./png/cloud/cloud_black_side-128.png)
-![](./png/cloud/cloud_cyan_side-128.png)
-![](./png/cloud/cloud_magenta_side-128.png)
-![](./png/cloud/cloud_white_side-128.png)
-![](./png/cloud/cloud_yellow_side-128.png)
-![](./png/cloud/digitalocean_side-128.png)
-![](./png/cloud/gcp_side-128.png)
-![](./png/cloud/hetzner_side-128.png)
-![](./png/cloud/kubernetes_side-128.png)
-![](./png/cloud/oracle_side-128.png)
-![](./png/cloud/scaleway_side-128.png)
+<table>
+<tr align='center'>
+    <th align='center'>Cloud (black)</th>
+    <th align='center'>Cloud (cyan)</th>
+    <th align='center'>Cloud (magenta)</th>
+    <th align='center'>Cloud (white)</th>
+    <th align='center'>Cloud (yellow)</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/cloud/cloud_black_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_cyan_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_magenta_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_white_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_yellow_side-128.png' width="50px"></td>
+</tr>
+</table>
+
+<table>
+<tr align='center'>
+    <th align='center'>Alibaba cloud</th>
+    <th align='center'>Amazon Web Services</th>
+    <th align='center'>Azure</th>
+    <th align='center'>Digital Ocean</th>
+    <th align='center'>Google Cloud Platform</th>
+    <th align='center'>Hetzner</th>
+    <th align='center'>Kubernetes</th>
+    <th align='center'>Oracle Cloud</th>
+    <th align='center'>Scaleway</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/cloud/alibaba_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/aws_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/azure_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/digitalocean_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/gcp_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/hetzner_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/kubernetes_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/oracle_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/scaleway_side-128.png' width="50px"></td>
+</tr>
+</table>
 
 
 ### Container
