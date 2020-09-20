@@ -139,37 +139,80 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 #### Basic
 
-![](./png/container/container_tone_metal-128.png)
-![](./png/container/container_logging-128.png)
-![](./png/container/container_monitoring-128.png)
-![](./png/container/container_tone_metal_open-128.png)
-![](./png/container/container_tone_metal_open_insert-128.png)
-![](./png/container/container-deconstructed-128.png)
+<table>
+<tr align='center'>
+    <th align='center'>Container metal</th>
+    <th align='center'>Container logging</th>
+    <th align='center'>Container monitoring</th>
+    <th align='center'>Container open</th>
+    <th align='center'>Container build</th>
+    <th align='center'>Container deconstructed</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/container/container_tone_metal-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_logging-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_monitoring-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_metal_open-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_metal_open_insert-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container-deconstructed-128.png' width="50px"></td>
+</tr>
+</table>
 
 #### Colored
 
-![](./png/container/container_black-128.png)
-![](./png/container/container_blue-128.png)
-![](./png/container/container_cyan-128.png)
-![](./png/container/container_magenta-128.png)
-![](./png/container/container_orange-128.png)
-![](./png/container/container_purple-128.png)
-![](./png/container/container_red-128.png)
-![](./png/container/container_white-128.png)
-![](./png/container/container_yellow-128.png)
+<table>
+<tr align='center'>
+    <th align='center'>Container black</th>
+    <th align='center'>Container blue</th>
+    <th align='center'>Container cyan</th>
+    <th align='center'>Container magenta</th>
+    <th align='center'>Container orange</th>
+    <th align='center'>Container purple</th>
+    <th align='center'>Container red</th>
+    <th align='center'>Container white</th>
+    <th align='center'>Container yellow</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/container/container_black-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_blue-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_cyan-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_magenta-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_orange-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_purple-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_red-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_white-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_yellow-128.png' width="50px"></td>
+</tr>
+</table>
 
 #### Tone
 
-![](./png/container/container_tone_azure-128.png)
-![](./png/container/container_tone_banana-128.png)
-![](./png/container/container_tone_carrot-128.png)
-![](./png/container/container_tone_emeraude-128.png)
-![](./png/container/container_tone_grape-128.png)
-![](./png/container/container_tone_lagoon-128.png)
-![](./png/container/container_tone_petrol-128.png)
-![](./png/container/container_tone_poussin-128.png)
-![](./png/container/container_tone_raspberry-128.png)
-![](./png/container/container_tone_sapphire-128.png)
+<table>
+<tr align='center'>
+    <th align='center'>Container azure</th>
+    <th align='center'>Container banana</th>
+    <th align='center'>Container carrot</th>
+    <th align='center'>Container emeraude</th>
+    <th align='center'>Container grape</th>
+    <th align='center'>Container lagoon</th>
+    <th align='center'>Container petrol</th>
+    <th align='center'>Container poussin</th>
+    <th align='center'>Container raspberry</th>
+    <th align='center'>Container sapphire</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/container/container_tone_azure-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_banana-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_carrot-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_emeraude-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_grape-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_lagoon-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_petrol-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_poussin-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_raspberry-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_sapphire-128.png' width="50px"></td>
+</tr>
+</table>
 
 ### Storage
 
