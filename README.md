@@ -20,7 +20,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 ### Application Package
 
-<table>
+<table width='90%'>
 <tr align='center'>
     <th align='center'>Librairies</th>
     <th align='center'>Process</th>
@@ -32,23 +32,21 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <th align='center'>Software package (white)</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/application-package/librairies-128.png' width="50px"></td>
-    <td align='center'><img src='./png/application-package/single_process-128.png' width="50px"></td>
-    <td align='center'><img src='./png/application-package/software_package_black-128.png' width="50px"></td>
-    <td align='center'><img src='./png/application-package/software_package_cyan-128.png' width="50px"></td>
-    <td align='center'><img src='./png/application-package/software_package_magenta-128.png' width="50px"></td>
-    <td align='center'><img src='./png/application-package/software_package_metal-128.png' width="50px"></td>
-    <td align='center'><img src='./png/application-package/software_package_yellow-128.png' width="50px"></td>
-    <td align='center'><img src='./png/application-package/software_package_white-128.png' width="50px"></td>
+    <td align='center'><img src='./png/application-package/librairies-128.png' width='50px'></td>
+    <td align='center'><img src='./png/application-package/single_process-128.png' width='50px'></td>
+    <td align='center'><img src='./png/application-package/software_package_black-128.png' width='50px'></td>
+    <td align='center'><img src='./png/application-package/software_package_cyan-128.png' width='50px'></td>
+    <td align='center'><img src='./png/application-package/software_package_magenta-128.png' width='50px'></td>
+    <td align='center'><img src='./png/application-package/software_package_metal-128.png' width='50px'></td>
+    <td align='center'><img src='./png/application-package/software_package_yellow-128.png' width='50px'></td>
+    <td align='center'><img src='./png/application-package/software_package_white-128.png' width='50px'></td>
 </tr>
 </table>
 
 
-### Cloud
+### Cloud (Front view)
 
-#### Front view
-
-<table>
+<table width='90%'>
 <tr align='center'>
     <th align='center'>Cloud (black)</th>
     <th align='center'>Cloud (cyan)</th>
@@ -57,15 +55,15 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <th align='center'>Cloud (yellow)</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/cloud/cloud_black_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_cyan_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_magenta_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_white_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_yellow_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_black_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_cyan_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_magenta_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_white_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_yellow_front-128.png' width='50px'></td>
 </tr>
 </table>
 
-<table>
+<table width='90%'>
 <tr align='center'>
     <th align='center'>Alibaba cloud</th>
     <th align='center'>Amazon Web Services</th>
@@ -78,21 +76,21 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <th align='center'>Scaleway</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/cloud/alibaba_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/aws_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/azure_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/digitalocean_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/gcp_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/hetzner_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/kubernetes_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/oracle_front-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/scaleway_front-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/alibaba_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/aws_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/azure_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/digitalocean_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/gcp_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/hetzner_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/kubernetes_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/oracle_front-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/scaleway_front-128.png' width='50px'></td>
 </tr>
 </table>
 
-#### Side view
+### Cloud (Side view)
 
-<table>
+<table width='90%'>
 <tr align='center'>
     <th align='center'>Cloud (black)</th>
     <th align='center'>Cloud (cyan)</th>
@@ -101,15 +99,15 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <th align='center'>Cloud (yellow)</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/cloud/cloud_black_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_cyan_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_magenta_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_white_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/cloud_yellow_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/cloud_black_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_cyan_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_magenta_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_white_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/cloud_yellow_side-128.png' width='50px'></td>
 </tr>
 </table>
 
-<table>
+<table width='90%'>
 <tr align='center'>
     <th align='center'>Alibaba cloud</th>
     <th align='center'>Amazon Web Services</th>
@@ -122,24 +120,22 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <th align='center'>Scaleway</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/cloud/alibaba_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/aws_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/azure_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/digitalocean_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/gcp_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/hetzner_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/kubernetes_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/oracle_side-128.png' width="50px"></td>
-    <td align='center'><img src='./png/cloud/scaleway_side-128.png' width="50px"></td>
+    <td align='center'><img src='./png/cloud/alibaba_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/aws_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/azure_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/digitalocean_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/gcp_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/hetzner_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/kubernetes_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/oracle_side-128.png' width='50px'></td>
+    <td align='center'><img src='./png/cloud/scaleway_side-128.png' width='50px'></td>
 </tr>
 </table>
 
 
-### Container
+### Container (Basic)
 
-#### Basic
-
-<table>
+<table width='90%'>
 <tr align='center'>
     <th align='center'>Container metal</th>
     <th align='center'>Container logging</th>
@@ -149,72 +145,154 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <th align='center'>Container deconstructed</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/container/container_tone_metal-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_logging-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_monitoring-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_metal_open-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_metal_open_insert-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container-deconstructed-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_metal-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_logging-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_monitoring-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_metal_open-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_metal_open_insert-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container-deconstructed-128.png' width='50px'></td>
 </tr>
 </table>
 
-#### Colored
+### Container (CYMK)
 
-<table>
+<table width='90%'>
 <tr align='center'>
-    <th align='center'>Container black</th>
-    <th align='center'>Container blue</th>
     <th align='center'>Container cyan</th>
-    <th align='center'>Container magenta</th>
-    <th align='center'>Container orange</th>
-    <th align='center'>Container purple</th>
-    <th align='center'>Container red</th>
-    <th align='center'>Container white</th>
     <th align='center'>Container yellow</th>
+    <th align='center'>Container magenta</th>
+    <th align='center'>Container black</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/container/container_black-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_blue-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_cyan-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_magenta-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_orange-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_purple-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_red-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_white-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_yellow-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_cyan-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_yellow-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_magenta-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_black-128.png' width='50px'></td>
 </tr>
 </table>
 
-#### Tone
+### Container (Tone)
 
-<table>
+<table width='90%'>
 <tr align='center'>
-    <th align='center'>Container azure</th>
+    <th align='center'>Container white</th>
+    <th align='center'>Container poussin</th>
     <th align='center'>Container banana</th>
     <th align='center'>Container carrot</th>
-    <th align='center'>Container emeraude</th>
-    <th align='center'>Container grape</th>
-    <th align='center'>Container lagoon</th>
-    <th align='center'>Container petrol</th>
-    <th align='center'>Container poussin</th>
     <th align='center'>Container raspberry</th>
+    <th align='center'>Container gray</th>
+    <th align='center'>Container lagoon</th>
+    <th align='center'>Container azure</th>
     <th align='center'>Container sapphire</th>
+    <th align='center'>Container petrol</th>
+    <th align='center'>Container green</th>
+    <th align='center'>Container emeraude</th>
+    <th align='center'>Container magenta</th>
+    <th align='center'>Container grape</th>
+    <th align='center'>Container black</th>
+    <th align='center'>Container metal</th>
 </tr>
 <tr align='center'>
-    <td align='center'><img src='./png/container/container_tone_azure-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_banana-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_carrot-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_emeraude-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_grape-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_lagoon-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_petrol-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_poussin-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_raspberry-128.png' width="50px"></td>
-    <td align='center'><img src='./png/container/container_tone_sapphire-128.png' width="50px"></td>
+    <td align='center'><img src='./png/container/container_tone_white-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_poussin-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_banana-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_carrot-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_raspberry-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_gray-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_lagoon-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_azure-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_sapphire-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_petrol-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_green-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_emeraude-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_magenta-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_grape-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_black-128.png' width='50px'></td>
+    <td align='center'><img src='./png/container/container_tone_metal-128.png' width='50px'></td>
 </tr>
 </table>
 
-### Storage
+### Storage (Configuration)
+
+<table width='90%'>
+<tr align='center'>
+    <th align='center'>Configuration white</th>
+    <th align='center'>Configuration poussin</th>
+    <th align='center'>Configuration banana</th>
+    <th align='center'>Configuration carrot</th>
+    <th align='center'>Configuration raspberry</th>
+    <th align='center'>Configuration gray</th>
+    <th align='center'>Configuration lagoon</th>
+    <th align='center'>Configuration azure</th>
+    <th align='center'>Configuration sapphire</th>
+    <th align='center'>Configuration petrol</th>
+    <th align='center'>Configuration green</th>
+    <th align='center'>Configuration emeraude</th>
+    <th align='center'>Configuration magenta</th>
+    <th align='center'>Configuration grape</th>
+    <th align='center'>Configuration black</th>
+    <th align='center'>Configuration metal</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_white-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_poussin-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_banana-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_carrot-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_raspberry-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_gray-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_lagoon-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_azure-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_sapphire-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_petrol-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_green-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_emeraude-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_magenta-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_grape-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_black-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/configuration/configuration_tone_metal-128.png' width='50px'></td>
+</tr>
+</table>
+
+### Storage (Configuration)
+
+<table width='90%'>
+<tr align='center'>
+    <th align='center'>Code white</th>
+    <th align='center'>Code poussin</th>
+    <th align='center'>Code banana</th>
+    <th align='center'>Code carrot</th>
+    <th align='center'>Code raspberry</th>
+    <th align='center'>Code gray</th>
+    <th align='center'>Code lagoon</th>
+    <th align='center'>Code azure</th>
+    <th align='center'>Code sapphire</th>
+    <th align='center'>Code petrol</th>
+    <th align='center'>Code green</th>
+    <th align='center'>Code emeraude</th>
+    <th align='center'>Code magenta</th>
+    <th align='center'>Code grape</th>
+    <th align='center'>Code black</th>
+    <th align='center'>Code metal</th>
+</tr>
+<tr align='center'>
+    <td align='center'><img src='./png/storage/code/code_tone_white-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_poussin-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_banana-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_carrot-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_raspberry-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_gray-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_lagoon-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_azure-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_sapphire-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_petrol-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_green-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_emeraude-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_magenta-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_grape-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_black-128.png' width='50px'></td>
+    <td align='center'><img src='./png/storage/code/code_tone_metal-128.png' width='50px'></td>
+</tr>
+</table>
 
 #### Filesystem
 
@@ -345,7 +423,7 @@ However we wanted also wants to give credits to awsome projects we crossed when 
 
 ### Special thanks
 
-<img src="https://pbs.twimg.com/profile_images/1095726076007993344/4M9DRP79.png" alt="prisma" width="50px"/> [Onepoint](https://groupeonepoint.com)
+<img src="https://pbs.twimg.com/profile_images/1095726076007993344/4M9DRP79.png" alt="prisma"/> [Onepoint](https://groupeonepoint.com)
 
 ## License
 
