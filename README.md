@@ -447,8 +447,8 @@ However we wanted also wants to give credits to awsome projects we crossed when 
 - <img src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4" alt="prisma" width="20px"/> [Nvidia Docker](https://devblogs.nvidia.com/gpu-containers-runtime) from [Nvidia](https://nvidia.com) - [Github](https://github.com/nvidia)
 - <img src="https://avatars1.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" width="20px"/> [Prisma](<https://www.prisma.io>) - [Github](prisma)
 - <img src="https://avatars0.githubusercontent.com/u/3082775?s=200&v=4" alt="prisma" width="20px"/> [Portal 2 - Apperture Science commercials](https://www.youtube.com/playlist?list=PL8kpaSMMKX77pkOQzuZfuL3wtX0kvKW3u) from [Valve](https://www.valvesoftware.com) - [Github](https://github.com/ValveSoftware)
-- <img src="https://pbs.twimg.com/profile_images/717809023823642624/6H0pvx8y_400x400.jpg" alt="prisma" width="20px"/> [Cloudcraft](https://cloudcraft.com)
-- <img src="https://pbs.twimg.com/profile_images/986593959681187840/LG5uMkl8_400x400.jpg" alt="prisma" width="20px"/> [Arcentry](https://arcentry.com)
+- <img src="https://pbs.twimg.com/profile_images/1278699865141153799/-D3prq0W_400x400.jpg" alt="cloudcraft" width="20px"/> [Cloudcraft](https://cloudcraft.com)
+- <img src="https://pbs.twimg.com/profile_images/986593959681187840/LG5uMkl8_400x400.jpg" alt="arcentry" width="20px"/> [Arcentry](https://arcentry.com)
 
 ### Special thanks
 
