@@ -164,10 +164,11 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <td align='center'><img alt='Hetzner'src='./png/cloud/hetzner_front-128.png' width='50px'></td>
     <td align='center'><img alt='IBM cloud'src='./png/cloud/ibm_front-128.png' width='50px'></td>
     <td align='center'><img alt='Kubernetes'src='./png/cloud/kubernetes_front-128.png' width='50px'></td>
+    <td align='center'><img alt='Open Telekom Cloud'src='./png/cloud/open_telekom_cloud_front-128.png' width='50px'></td>
     <td align='center'><img alt='Oracle cloud'src='./png/cloud/oracle_front-128.png' width='50px'></td>
-    <td align='center'><img alt='Orange cloud'src='./png/cloud/orange_front-128.png' width='50px'></td>
 </tr>
 <tr align='center'>
+    <td align='center'><img alt='Orange cloud'src='./png/cloud/orange_front-128.png' width='50px'></td>
     <td align='center'><img alt='Outscale'src='./png/cloud/outscale_front-128.png' width='50px'></td>
     <td align='center'><img alt='OVH cloud'src='./png/cloud/ovh_front-128.png' width='50px'></td>
     <td align='center'><img alt='Scaleway'src='./png/cloud/scaleway_front-128.png' width='50px'></td>
@@ -198,10 +199,11 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <td align='center'><img alt='Hetzner'src='./png/cloud/hetzner_side-128.png' width='50px'></td>
     <td align='center'><img alt='IBM cloud'src='./png/cloud/ibm_side-128.png' width='50px'></td>
     <td align='center'><img alt='Kubernetes'src='./png/cloud/kubernetes_side-128.png' width='50px'></td>
+    <td align='center'><img alt='Open Telekom Cloud'src='./png/cloud/open_telekom_cloud_side-128.png' width='50px'></td>
     <td align='center'><img alt='Oracle cloud'src='./png/cloud/oracle_side-128.png' width='50px'></td>
-    <td align='center'><img alt='Orange cloud'src='./png/cloud/orange_side-128.png' width='50px'></td>
 </tr>
 <tr align='center'>
+    <td align='center'><img alt='Orange cloud'src='./png/cloud/orange_side-128.png' width='50px'></td>
     <td align='center'><img alt='Outscale'src='./png/cloud/outscale_side-128.png' width='50px'></td>
     <td align='center'><img alt='OVH cloud'src='./png/cloud/ovh_side-128.png' width='50px'></td>
     <td align='center'><img alt='Scaleway'src='./png/cloud/scaleway_side-128.png' width='50px'></td>
