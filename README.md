@@ -25,6 +25,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <td align='center'><img alt='Scheduler' src='./png/kubernetes/control-plane/scheduler-128.png' width='50px'></td>
     <td align='center'><img alt='Kubelet' src='./png/kubernetes/control-plane/kubelet-128.png' width='50px'></td>
     <td align='center'><img alt='Kube-Proxy' src='./png/kubernetes/control-plane/kube-proxy-128.png' width='50px'></td>
+    <td align='center'><img alt='Cloud Controller Manager' src='./png/kubernetes/control-plane/cloud-controller-manager-128.png' width='50px'></td>
 </tr>
 <tr align='center'>
     <td align='center'><img alt='Cloud Controller Manager' src='./png/kubernetes/control-plane/cloud-controller-manager-128.png' width='50px'></td>
@@ -210,34 +211,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 </tr>
 </table>
 
-###### Container (Basic)
-
-<table width='90%'>
-<tr align='center'>
-    <td align='center'><img alt='Container metal' src='./png/container/container_tone_metal-128.png' width='50px'></td>
-    <td align='center'><img alt='Container logging' src='./png/container/container_logging-128.png' width='50px'></td>
-    <td align='center'><img alt='Container monitoring' src='./png/container/container_monitoring-128.png' width='50px'></td>
-    <td align='center'><img alt='Container open' src='./png/container/container_tone_metal_open-128.png' width='50px'></td>
-    <td align='center'><img alt='Container build' src='./png/container/container_tone_metal_open_insert-128.png' width='50px'></td>
-</tr>
-<tr align='center'>
-    <td align='center'><img alt='Container deconstructed' src='./png/container/container-deconstructed-128.png' width='50px'></td>
-</tr>
-</table>
-
-###### Container (CYMK)
-
-<table width='90%'>
-<tr align='center'>
-    <td align='center'><img alt='Container cyan' src='./png/container/container_cyan-128.png' width='50px'></td>
-    <td align='center'><img alt='Container yellow' src='./png/container/container_yellow-128.png' width='50px'></td>
-    <td align='center'><img alt='Container magenta' src='./png/container/container_magenta-128.png' width='50px'></td>
-    <td align='center'><img alt='Container black' src='./png/container/container_black-128.png' width='50px'></td>
-    <td align='center'><img alt='Container white' src='./png/container/container_tone_white-128.png' width='50px'></td>
-</tr>
-</table>
-
-###### Container (Tone)
+###### Container
 
 <table width='90%'>
 <tr align='center'>
@@ -262,7 +236,16 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <td align='center'><img alt='Container black'src='./png/container/container_tone_black-128.png' width='50px'></td>
 </tr>
 <tr align='center'>
-    <td align='center'><img alt='Container metal'src='./png/container/container_tone_metal-128.png' width='50px'></td>
+    <td align='center'><img alt='Container metal' src='./png/container/container_tone_metal-128.png' width='50px'></td>
+    <td align='center'><img alt='Container logging' src='./png/container/container_logging-128.png' width='50px'></td>
+    <td align='center'><img alt='Container monitoring' src='./png/container/container_monitoring-128.png' width='50px'></td>
+    <td align='center'><img alt='Container open' src='./png/container/container_tone_metal_open-128.png' width='50px'></td>
+    <td align='center'><img alt='Container build' src='./png/container/container_tone_metal_open_insert-128.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Container deconstructed' src='./png/container/container-deconstructed-128.png' width='50px'></td>
+    <td align='center'><img alt='Container metadata' src='./png/container/container_metadata-128.png' width='50px'></td>
+    <td align='center'><img alt='Container resources' src='./png/container/container_resources-128.png' width='50px'></td>
 </tr>
 </table>
 
