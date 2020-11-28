@@ -47,6 +47,7 @@ Isometry offers this opportunity to represent the various objects in volumes and
 <tr align='center'>
     <td align='center'><img alt='Pod' src='./png/kubernetes/resources/pod-128.png' width='50px'></td>
     <td align='center'><img alt='Pod (1 sidecar)' src='./png/kubernetes/resources/pod_sidecar-1-128.png' width='50px'></td>
+    <td align='center'><img alt='Pod (1 sidecar)' src='./png/kubernetes/resources/pod_sidecar-1-side-128.png' width='50px'></td>
     <td align='center'><img alt='Pod (2 sidecar)' src='./png/kubernetes/resources/pod_sidecar-2-128.png' width='50px'></td>
     <td align='center'><img alt='Pod (3 sidecar)' src='./png/kubernetes/resources/pod_sidecar-3-128.png' width='50px'></td>
 </tr>
@@ -56,19 +57,88 @@ Isometry offers this opportunity to represent the various objects in volumes and
 
 <table width='90%'>
 <tr align='center'>
-    <td align='center'><img alt='Librairies' src='./png/application-package/librairies-128.png' width='50px'></td>
-    <td align='center'><img alt='Process' src='./png/application-package/single_process-128.png' width='50px'></td>
-    <td align='center'><img alt='Software package (black)' src='./png/application-package/software_package_black-128.png' width='50px'></td>
-    <td align='center'><img alt='Software package (cyan)' src='./png/application-package/software_package_cyan-128.png' width='50px'></td>
-    <td align='center'><img alt='Software package (magenta)' src='./png/application-package/software_package_magenta-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration white' src='./png/application-package/software_package_tone_white-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration poussin' src='./png/application-package/software_package_tone_poussin-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration banana' src='./png/application-package/software_package_tone_banana-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration carrot' src='./png/application-package/software_package_tone_carrot-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration raspberry' src='./png/application-package/software_package_tone_raspberry-128.png' width='50px'></td>
 </tr>
 <tr align='center'>
-    <td align='center'><img alt='Software package (metal)' src='./png/application-package/software_package_metal-128.png' width='50px'></td>
-    <td align='center'><img alt='Software package (yellow)' src='./png/application-package/software_package_yellow-128.png' width='50px'></td>
-    <td align='center'><img alt='Software package (white)' src='./png/application-package/software_package_white-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration gray' src='./png/application-package/software_package_tone_gray-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration lagoon' src='./png/application-package/software_package_tone_lagoon-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration azure' src='./png/application-package/software_package_tone_azure-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration sapphire' src='./png/application-package/software_package_tone_sapphire-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration petrol' src='./png/application-package/software_package_tone_petrol-128.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Configuration green' src='./png/application-package/software_package_tone_green-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration emeraude' src='./png/application-package/software_package_tone_emeraude-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration magenta' src='./png/application-package/software_package_tone_magenta-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration grape' src='./png/application-package/software_package_tone_grape-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration black' src='./png/application-package/software_package_tone_black-128.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Configuration metal' src='./png/application-package/software_package_tone_metal_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration metal' src='./png/application-package/software_package_tone_metal_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration metal' src='./png/application-package/librairies-128.png' width='50px'></td>
+    <td align='center'><img alt='Configuration metal' src='./png/application-package/single_process-128.png' width='50px'></td>
 </tr>
 </table>
 
+###### Application package (Material)
+
+<table width='90%'>
+<tr align='center'>
+    <td align='center'><img alt='Software package red (dark)' src='./png/application-package/material/software_package_red_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package red (light)' src='./png/application-package/material/software_package_red_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package pink (dark)' src='./png/application-package/material/software_package_pink_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package pink (light)' src='./png/application-package/material/software_package_pink_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package purple (dark)' src='./png/application-package/material/software_package_purple_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package purple (light)' src='./png/application-package/material/software_package_purple_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package deep purple (dark)' src='./png/application-package/material/software_package_deep_purple_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package deep purple (light)' src='./png/application-package/material/software_package_deep_purple_light-128.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Software package indigo (dark)' src='./png/application-package/material/software_package_indigo_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package indigo (light)' src='./png/application-package/material/software_package_indigo_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package blue (dark)' src='./png/application-package/material/software_package_blue_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package blue (light)' src='./png/application-package/material/software_package_blue_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package light blue (dark)' src='./png/application-package/material/software_package_light_blue_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package light blue (light)' src='./png/application-package/material/software_package_light_blue_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package cyan (dark)' src='./png/application-package/material/software_package_cyan_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package cyan (light)' src='./png/application-package/material/software_package_cyan_light-128.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Software package teal (dark)' src='./png/application-package/material/software_package_teal_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package teal (light)' src='./png/application-package/material/software_package_teal_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package green (dark)' src='./png/application-package/material/software_package_green_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package green (light)' src='./png/application-package/material/software_package_green_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package light green (dark)' src='./png/application-package/material/software_package_light_green_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package light green (light)' src='./png/application-package/material/software_package_light_green_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package lime (dark)' src='./png/application-package/material/software_package_lime_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package lime (light)' src='./png/application-package/material/software_package_lime_light-128.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Software package yellow (dark)' src='./png/application-package/material/software_package_yellow_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package yellow (light)' src='./png/application-package/material/software_package_yellow_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package amber (dark)' src='./png/application-package/material/software_package_amber_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package amber (light)' src='./png/application-package/material/software_package_amber_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package orange (dark)' src='./png/application-package/material/software_package_orange_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package orange (light)' src='./png/application-package/material/software_package_orange_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package deep orange (dark)' src='./png/application-package/material/software_package_deep_orange_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package deep orange (light)' src='./png/application-package/material/software_package_deep_orange_light-128.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Software package brown (dark)' src='./png/application-package/material/software_package_brown_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package brown (light)' src='./png/application-package/material/software_package_brown_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package gray (dark)' src='./png/application-package/material/software_package_gray_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package gray (light)' src='./png/application-package/material/software_package_gray_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package blue gray (dark)' src='./png/application-package/material/software_package_blue_gray_dark-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package blue gray (light)' src='./png/application-package/material/software_package_blue_gray_light-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package black' src='./png/application-package/material/software_package_black-128.png' width='50px'></td>
+    <td align='center'><img alt='Software package white' src='./png/application-package/material/software_package_white-128.png' width='50px'></td>
+</tr>
+</table>
 
 ###### Cloud (Front view)
 
@@ -452,7 +522,7 @@ However we wanted also wants to give credits to awsome projects we crossed when 
 
 ### Special thanks
 
-<img src="https://pbs.twimg.com/profile_images/1095726076007993344/4M9DRP79.png" alt="prisma"/> [Onepoint](https://groupeonepoint.com)
+- <img src="https://www.groupeonepoint.com/static-pages/assets/img/logo-onepoint.png" alt="Onepoint" width="50px"/> [Onepoint](https://groupeonepoint.com)
 
 ## License
 
