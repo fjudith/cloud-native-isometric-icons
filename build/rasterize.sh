@@ -2,7 +2,7 @@
 
 SIZES=(128 256)
 
-docker build -t svgconvertor:latest -f tools/Dockerfile .
+docker build -t svgconvertor:latest -f build/Dockerfile .
 
 total=$(find svg/ -name *.svg | wc -l)
 counter=1

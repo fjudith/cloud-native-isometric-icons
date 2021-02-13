@@ -13,5 +13,5 @@ jobs:
       run: echo Converting SVG files to PNG.
     - name: Run a multi-line script
       run: |
-        chmod 755 tools/*.sh
-        tools/rasterize.sh
+        chmod 755 build/*.sh
+        build/rasterize.sh
