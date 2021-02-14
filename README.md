@@ -1,3 +1,4 @@
+![cc-by-nd-shield](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
 # Cloud Native isometric icons
 
 Talking about Cloud Native and Continous delevery concepts can be challenging when the time come to talk to non-technical people.
@@ -18,6 +19,37 @@ The number of objects and customisation is so high that diagrams was looking lik
 
 Isometry offers this opportunity to represent the various objects in volumes and gain a better understanting impact when promotting [Cloud Native](https://cncf.io) projects and the assiociated Devops spirit.
 
+## License
+
+Please note those assets are distributed under a creative commons license, you are permitted to use and share this work providing usage is attributed to `Florian JUDITH` and `Marie DAO`. And that the original file is distributed with this README file.
+
+This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nd/4.0/deed.en_US>.
+
+![cc-by-nd-image](https://licensebuttons.net/l/by-nd/4.0/88x31.png)
+
+###### Software Factory
+
+<table width='90%'>
+<tr align='center'>
+    <td align='center'><img alt='Integration pipeline' src='./png/software-factory/integration-pipeline-256.png' width='50px'></td>
+    <td align='center'><img alt='Deployment pipeline' src='./png/software-factory/deployment-pipeline-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Gate Enter' src='./png/software-factory/conveyor-gate-enter-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Gate Exit' src='./png/software-factory/conveyor-gate-exit-256.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Conveyor Long Up-left' src='./png/software-factory/conveyor-long-up-left-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Long Up-right' src='./png/software-factory/conveyor-long-up-right-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Long Down-left' src='./png/software-factory/conveyor-long-down-left-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Long Down-right' src='./png/software-factory/conveyor-long-down-right-256.png' width='50px'></td>
+</tr>
+<tr align='center'>
+    <td align='center'><img alt='Conveyor Gate Enter' src='./png/software-factory/conveyor-short-up-left-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Gate Enter' src='./png/software-factory/conveyor-short-up-right-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Gate Enter' src='./png/software-factory/conveyor-short-down-left-256.png' width='50px'></td>
+    <td align='center'><img alt='Conveyor Gate Enter' src='./png/software-factory/conveyor-short-down-right-256.png' width='50px'></td>
+</tr>
+</table>
+
 ###### Kubernetes control-plane
 
 <table width='90%'>
@@ -25,12 +57,12 @@ Isometry offers this opportunity to represent the various objects in volumes and
     <td align='center'><img alt='API Server' src='./png/kubernetes/control-plane/apiserver-128.png' width='50px'></td>
     <td align='center'><img alt='Controller Manager' src='./png/kubernetes/control-plane/controller-manager-128.png' width='50px'></td>
     <td align='center'><img alt='Scheduler' src='./png/kubernetes/control-plane/scheduler-128.png' width='50px'></td>
-    <td align='center'><img alt='Kubelet' src='./png/kubernetes/control-plane/kubelet-128.png' width='50px'></td>
-    <td align='center'><img alt='Kube-Proxy' src='./png/kubernetes/control-plane/kube-proxy-128.png' width='50px'></td>
     <td align='center'><img alt='Cloud Controller Manager' src='./png/kubernetes/control-plane/cloud-controller-manager-128.png' width='50px'></td>
 </tr>
 <tr align='center'>
-    <td align='center'><img alt='Cloud Controller Manager' src='./png/kubernetes/control-plane/cloud-controller-manager-128.png' width='50px'></td>
+    <td align='center'><img alt='Kubelet' src='./png/kubernetes/control-plane/kubelet-128.png' width='50px'></td>
+    <td align='center'><img alt='Kube-Proxy' src='./png/kubernetes/control-plane/kube-proxy-128.png' width='50px'></td>
+
 </tr>
 </table>
 
@@ -509,8 +541,4 @@ However we wanted also wants to give credits to awsome projects we crossed when 
 
 ### Special thanks
 
-- <img src="https://www.groupeonepoint.com/static-pages/assets/img/logo-onepoint.png" alt="Onepoint" width="50px"/> [Onepoint](https://groupeonepoint.com)
-
-## License
-
-The Kubernetes Icons Set is licensed under a choice of either Apache-2.0 or CC-BY-4.0 (Creative Commons Attribution 4.0 International). The Kubernetes logo is a registered trademark of The Linux Foundation, and use of it as a trademark is subject to The Linux Foundation's Trademark Usage Guidelines at https://www.linuxfoundation.org/trademark-usage/.
+- <img src="./docs/media/onepoint-psf.png" alt="Onepoint" width="80px"/> [Onepoint](https://groupeonepoint.com)

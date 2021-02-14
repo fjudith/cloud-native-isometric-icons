@@ -1,0 +1,1 @@
+# Guidelines for affinity Users
