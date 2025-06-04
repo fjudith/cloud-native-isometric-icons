@@ -6,7 +6,7 @@ We beleive that using isometry helps to handle the various dimensions of distrib
 
 ---
 
-![continuous delivery](./docs/media/continuous_delivery_v5.0.0.png)
+![continuous delivery](./docs/media/continuous_delivery_v8.0.0.png)
 
 ![Argo architecture](./docs/media/argo_architecture_v1.0.0.png)
 
